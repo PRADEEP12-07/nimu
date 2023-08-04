@@ -19,7 +19,6 @@ def speak(audio):
     engine.runAndWait()
 
 speak("hello sir,")
-c
 def wish():
     hour = int(datetime.datetime.now().hour)
 
